@@ -10,7 +10,7 @@ public class App {
             System.err.println("Please provide an input!");
             System.exit(0);
         }
-        System.out.println("The SHA 256 hex value of the input is " + sha256hex(args[0]));
+        System.out.println("The SHA 256 hex value of the input is: " + sha256hex(args[0]));
 
     }
 
