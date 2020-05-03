@@ -3,7 +3,6 @@ Maven 3, Apache Commons Codec, a simple Java project to hash a string with the S
 
 Project Link - https://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/
 
-# this line is added by shiva
 
 ## How to run this project?
 ```
